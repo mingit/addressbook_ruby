@@ -1,6 +1,6 @@
 #addressbook V1.0
 
-What: Assignment (Digital Foodie interview): Ruby implemented address book application for storing and fetching person information.
+What: Assignment: Ruby implemented address book application for storing and fetching person information.
 When: August 2016
 Who: Dr. Ming Li (Author)
 		- Email: ming.li@aalto.fi
