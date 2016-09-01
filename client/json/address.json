@@ -1,0 +1,41 @@
+[
+{	
+	"firstname": "Ming",
+	"lastname": "Li",
+	"streetaddress": "Konemiehentie 2 B158",
+	"postcode": "02150",
+	"city": "Espoo",
+	"phone": "0505122839",
+	"email": "ming.li@aalto.fi",
+	"country": "China",
+	"photo":"./photo/Ming Li.jpg"
+},
+
+{	
+	"firstname": "Pekka",
+	"lastname": "Li",
+	"streetaddress": "Konemiehentie 2 B112",
+	"postcode": "02150",
+	"city": "Espoo",
+	"email": "pekka.li@aalto.fi"
+},
+
+{	
+	"firstname": "Smith",
+	"streetaddress": "Konemiehentie 2 B182",
+	"postcode": "02150",
+	"city": "Espoo",
+	"phone": "0501234543344",
+	"email": "smith@aalto.fi",
+	"photo":"./photo/smith.jpg"
+},
+
+{	
+	"streetaddress": "Konemiehentie 2 B12",
+	"postcode": "02150",
+	"email": "jacky@aalto.fi",
+	"country": "Hong Kong",
+	"photo":"./photo/photo.jpg"
+}
+
+]
